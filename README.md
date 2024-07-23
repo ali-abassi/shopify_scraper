@@ -7,7 +7,7 @@ This script crawls and scrapes Shopify e-commerce sites to generate LLM-ready do
 - 🕸️ Crawls entire Shopify store
 - 📃 Generates a full sitemap
 - 🏷️ Extracts product information
-- 🧹 Cleans and structures data using GPT-4
+- 🧹 Cleans and structures data using GPT-4o-mini
 - 💾 Saves product data in JSON format
 
 ## 🛠️ Setup
